@@ -1,0 +1,510 @@
+root,m_lemma,m_gender,m_definition,f_lemma,f_gender,f_definition,n_lemma,n_gender,n_definition
+air,airman,N,someone who operates an aircraft,airwoman,F,a woman aviator,,,
+assembly,assemblyman,N,someone who is a member of a legislative assembly,assemblywoman,F,a woman assemblyman,,,
+beggar,beggarman,M,a man who is a beggar,beggarwoman,F,a woman who is a beggar,,,
+bionic_,bionic_man,,a human being whose body has been taken over in whole or in part by electromechanical devices,bionic_woman,F,a human being whose body has been taken over in whole or in part by electromechanical devices,,,
+black_,black_man,M,a man who is Black,black_woman,F,a woman who is Black,black_person,N,a person with dark skin who comes from Africa (or whose ancestors came from Africa)
+bonds,bondsman,M,a male slave,bondswoman,F,someone who signs a bond as surety for someone else,,,
+bonds,bondsman,M,a male slave,bondswoman,F,a female bound to serve without wages,,,
+bonds,bondsman,M,a male slave,bondswoman,F,a female slave,,,
+bond,bondman,M,a male bound to serve without wages,bondwoman,F,a female bound to serve without wages,,,
+bond,bondman,M,a male bound to serve without wages,bondwoman,F,a female slave,,,
+business,businessman,N,a person engaged in commercial or industrial business (especially an owner or executive),businesswoman,F,a female businessperson,businessperson,N,a capitalist who engages in industrial commercial enterprise
+chair,chairman,N,the officer who presides at the meetings of an organization,chairwoman,F,the officer who presides at the meetings of an organization,chairperson,N,the officer who presides at the meetings of an organization
+char,,,,charwoman,F,a human female employed to do housework,,,
+clans,clansman,N,a member of a clan,clanswoman,F,a member of a clan,,,
+cleaning_,,,,cleaning_woman,F,a human female employed to do housework,,,
+comfort_,,,,comfort_woman,F,a woman forced into prostitution for Japanese servicemen during World War II,,,
+committee,committeeman,M,a man who is a member of committee,committeewoman,F,a woman who is a member of a committee,,,
+congress,congressman,N,a member of the United States House of Representatives,congresswoman,F,a member of the United States House of Representatives,,,
+cornish,cornishman,M,a man who is a native or inhabitant of Cornwall,cornishwoman,F,a woman who is a native or resident of Cornwall,,,
+council,councilman,M,a man who is a council member,councilwoman,F,a woman who is a council member,,,
+counter,counterman,N,someone who attends a counter (as in a diner),counterwoman,F,someone who attends a counter (as in a diner),counterperson,N,someone who attends a counter (as in a diner)
+country,countryman,M,a man from your own country,countrywoman,F,a woman who lives in the country and has country ways,,,
+country,countryman,M,a man from your own country,countrywoman,F,a woman from your own country,,,
+disagreeable_,,,,disagreeable_woman,F,a woman who is an unpleasant person,disagreeable_person,N,a person who is not pleasant or agreeable
+english,englishman,M,a man who is a native or inhabitant of England,englishwoman,F,a woman who is a native or inhabitant of England,,,
+enlisted_,enlisted_man,M,a male enlisted person in the armed forces,enlisted_woman,F,a female enlisted person in the armed forces,enlisted_person,N,a serviceman who ranks below a commissioned officer
+fancy_,fancy_man,N,someone who procures customers for whores (in England they call a pimp a ponce),fancy_woman,F,a woman who engages in sexual intercourse for money,,,
+fancy_,fancy_man,N,someone who procures customers for whores (in England they call a pimp a ponce),fancy_woman,F,an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man,,,
+foolish_,,,,foolish_woman,F,a female fool,,,
+fore,foreman,N,a person who exercises control over workers,forewoman,F,a woman who is foreperson of a jury,foreperson,N,the presiding member of the jury and the one who speaks on their behalf
+fore,foreman,N,a person who exercises control over workers,forewoman,F,a woman in charge of a group of workers,foreperson,N,the presiding member of the jury and the one who speaks on their behalf
+freed,freedman,N,a person who has been freed from slavery,freedwoman,F,a person who has been freed from slavery,,,
+free,freeman,N,a person who is not a serf or a slave,freewoman,F,a person who is not a serf or a slave,,,
+french,frenchman,N,a person of French nationality,frenchwoman,F,a person of French nationality,,,
+frontiers,frontiersman,M,a man who lives on the frontier,frontierswoman,F,a woman who lives on the frontier,,,
+gay_,gay_man,M,a homosexual man,gay_woman,F,a female homosexual,,,
+gentle,gentleman,M,a man of refinement,gentlewoman,F,a woman of refinement,,,
+honest_,,,,honest_woman,F,a wife who has married a man with whom she has been living for some time (especially if she is pregnant at the time),,,
+horse,horseman,M,a man skilled in equitation,horsewoman,F,a woman horseman,,,
+irish,irishman,M,a man who is a native or inhabitant of Ireland,irishwoman,F,a woman who is a native or inhabitant of Ireland,,,
+jury,juryman,N,someone who serves (or waits to be called to serve) on a jury,jurywoman,F,someone who serves (or waits to be called to serve) on a jury,,,
+kept_,,,,kept_woman,F,an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man,,,
+kins,kinsman,M,a male relative,kinswoman,F,a female relative,kinsperson,N,a person having kinship with another or others
+laundry,laundryman,,operates industrial washing machine,laundrywoman,F,a working woman who takes in washing,,,
+lollipop_,,,,lollipop_woman,F,a woman hired to help children cross a road safely near a school,,,
+loose_,,,,loose_woman,F,a woman adulterer,,,
+mad,madman,N,an insane person,madwoman,F,a woman lunatic,,,
+married_,married_man,M,a married man; a woman's partner in marriage,married_woman,F,a married woman; a man's partner in marriage,married_person,,a person's partner in marriage
+needle,,,,needlewoman,F,someone who makes or mends dresses,,,
+newspaper,newspaperman,,a journalist employed to provide news stories for newspapers or broadcast media,newspaperwoman,F,a journalist employed to provide news stories for newspapers or broadcast media,,,
+news,newsman,N,a person who investigates and reports or edits news stories,newswoman,F,a female newsperson,newsperson,N,a person who investigates and reports or edits news stories
+noble,nobleman,,a titled peer of the realm,noblewoman,F,a woman of the peerage in Britain,,,
+oars,oarsman,N,someone who rows a boat,oarswoman,F,a woman oarsman,,,
+old_,old_man,M,a man who is very old,old_woman,F,a woman who is old,old_person,N,an elderly person
+outdoors,outdoorsman,N,"a person who spends time outdoors (e.g., hunting or fishing)",outdoorswoman,F,"a woman who spends time outdoors (e.g., hunting and fishing)",,,
+point_,point_man,N,someone who is the forefront of an important enterprise,point_woman,F,a woman who is the forefront of an important enterprise,,,
+police,policeman,N,a member of a police force,policewoman,F,a woman policeman,,,
+sales,salesman,M,a man salesperson,saleswoman,F,a woman salesperson,salesperson,N,a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)
+scotch,scotchman,N,a native or inhabitant of Scotland,scotchwoman,F,a woman who is a Scot,,,
+scots,scotsman,N,a native or inhabitant of Scotland,scotswoman,F,a woman who is a Scot,,,
+select,selectman,N,an elected member of a board of officials who run New England towns,selectwoman,F,an elected member of a board of officials who run New England towns,,,
+slovenly_,,,,slovenly_woman,F,a dirty untidy woman,slovenly_person,N,a coarse obnoxious person
+spokes,spokesman,M,a male spokesperson,spokeswoman,F,a female spokesperson,spokesperson,N,an advocate who represents someone else's policy or purpose
+sports,sportsman,N,someone who engages in sports,sportswoman,F,someone who engages in sports,,,
+states,statesman,M,a man who is a respected leader in national or international affairs,stateswoman,F,a woman statesman,,,
+stunt_,stunt_man,,a stand-in for movie stars to perform dangerous stunts,stunt_woman,F,a stand-in for movie stars to perform dangerous stunts,,,
+unmarried_,unmarried_man,M,a man who has never been married,unmarried_woman,F,a woman who is not married,,,
+unpleasant_,,,,unpleasant_woman,F,a woman who is an unpleasant person,unpleasant_person,N,a person who is not pleasant or agreeable
+vestry,vestryman,M,a man who is a member of a church vestry,vestrywoman,F,a woman who is a member of a church vestry,,,
+washer,washerman,,operates industrial washing machine,washerwoman,F,a working woman who takes in washing,,,
+wash,,,,washwoman,F,a working woman who takes in washing,,,
+white_,white_man,M,a man who is White,white_woman,F,a woman who is White,white_person,N,a member of the Caucasoid race
+widow_,,,,widow_woman,F,a woman whose husband is dead especially one who has not remarried,,,
+,man,M,an adult person who is male (as opposed to a woman),woman,F,an adult female person (as opposed to a man),,,
+,man,M,an adult person who is male (as opposed to a woman),woman,F,a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man,,,
+,man,M,an adult person who is male (as opposed to a woman),woman,F,a human female employed to do housework,,,
+wonder_,,,,wonder_woman,F,a woman who can be a successful wife and have a professional career at the same time,,,
+yachts,yachtsman,N,a person who owns or sails a yacht,yachtswoman,F,a person who owns or sails a yacht,,,
+yellow_,yellow_man,,offensive term for an Asian man,yellow_woman,F,offensive term for an Asian woman,,,
+young_,young_man,N,a teenager or a young adult male,young_woman,F,a young woman,young_person,N,a young person (especially a young man or boy)
+east_ger,young_man,N,a native or inhabitant of the former republic of East Germany,east_gerwoman,,,east_german,N,a native or inhabitant of the former republic of East Germany
+fresh,young_man,N,a first-year undergraduate,freshwoman,,,freshman,N,a first-year undergraduate
+ger,young_man,N,a person of German nationality,gerwoman,,,german,N,a person of German nationality
+nor,young_man,PPN,United States operatic soprano (born in 1945),norwoman,,,norman,PPN,United States operatic soprano (born in 1945)
+otto,young_man,N,a Turk (especially a Turk who is a member of the tribe of Osman I),ottowoman,,,ottoman,N,a Turk (especially a Turk who is a member of the tribe of Osman I)
+ro,young_man,N,a resident of modern Rome,rowoman,,,roman,N,a resident of modern Rome
+a._e._hous,young_man,PPN,English poet (1859-1936),a._e._houswoman,,,a._e._housman,PPN,English poet (1859-1936)
+abel_janszoon_tas,young_man,PPN,Dutch navigator who was the first European to discover Tasmania and New Zealand (1603-1659),abel_janszoon_taswoman,,,abel_janszoon_tasman,PPN,Dutch navigator who was the first European to discover Tasmania and New Zealand (1603-1659)
+abel_tas,young_man,PPN,Dutch navigator who was the first European to discover Tasmania and New Zealand (1603-1659),abel_taswoman,,,abel_tasman,PPN,Dutch navigator who was the first European to discover Tasmania and New Zealand (1603-1659)
+able-bodied_sea,young_man,M,a seaman in the merchant marine; trained in special skills,able-bodied_seawoman,,,able-bodied_seaman,M,a seaman in the merchant marine; trained in special skills
+able_sea,young_man,M,a seaman in the merchant marine; trained in special skills,able_seawoman,,,able_seaman,M,a seaman in the merchant marine; trained in special skills
+abominable_snow,young_man,,a large hairy humanoid creature said to live in the Himalayas,abominable_snowwoman,,,abominable_snowman,,a large hairy humanoid creature said to live in the Himalayas
+ad,young_man,N,someone whose business is advertising,adwoman,,,adman,N,someone whose business is advertising
+ahri,young_man,,the spirit of evil in Zoroastrianism; arch rival of Ormazd,ahriwoman,,,ahriman,,the spirit of evil in Zoroastrianism; arch rival of Ormazd
+aircraft,young_man,N,a noncommissioned officer in the British Royal Air Force,aircraftwoman,,,aircraftman,N,a noncommissioned officer in the British Royal Air Force
+aircrafts,young_man,N,a noncommissioned officer in the British Royal Air Force,aircraftswoman,,,aircraftsman,N,a noncommissioned officer in the British Royal Air Force
+aircrew,young_man,N,a member of an aircrew,aircrewwoman,,,aircrewman,N,a member of an aircrew
+alaba,young_man,N,a native or resident of Alabama,alabawoman,,,alabaman,N,a native or resident of Alabama
+alder,young_man,N,a member of a municipal legislative body (as a city council),alderwoman,,,alderman,N,a member of a municipal legislative body (as a city council)
+alfred_edward_hous,young_man,PPN,English poet (1859-1936),alfred_edward_houswoman,,,alfred_edward_housman,PPN,English poet (1859-1936)
+anchor,young_man,N,a television reporter who coordinates a broadcast to which several correspondents contribute,anchorwoman,,,anchorman,N,a television reporter who coordinates a broadcast to which several correspondents contribute
+ape-,young_man,,hypothetical organism formerly thought to be intermediate between apes and human beings,ape-woman,,,ape-man,,hypothetical organism formerly thought to be intermediate between apes and human beings
+artillery,young_man,N,a serviceman in the artillery,artillerywoman,,,artilleryman,N,a serviceman in the artillery
+assistant_fore,young_man,N,a member of a work gang who supervises the other workers,assistant_forewoman,,,assistant_foreman,N,a member of a work gang who supervises the other workers
+averell_harri,young_man,PPN,United States financier who negotiated a treaty with the Soviet Union banning tests of nuclear weapons (1891-1986),averell_harriwoman,,,averell_harriman,PPN,United States financier who negotiated a treaty with the Soviet Union banning tests of nuclear weapons (1891-1986)
+backup_,young_man,N,someone who takes the place of another (as when things get dangerous or difficult),backup_woman,,,backup_man,N,someone who takes the place of another (as when things get dangerous or difficult)
+backwoods,young_man,M,a man who lives on the frontier,backwoodswoman,,,backwoodsman,M,a man who lives on the frontier
+baggage,young_man,N,an attendant who takes care of baggage,baggagewoman,,,baggageman,N,an attendant who takes care of baggage
+bag,young_man,M,a salesman who travels to call on customers,bagwoman,,,bagman,M,a salesman who travels to call on customers
+bands,young_man,N,a player in a band (especially a military band),bandswoman,,,bandsman,N,a player in a band (especially a military band)
+barbara_tuch,young_man,PPN,United States historian (1912-1989),barbara_tuchwoman,,,barbara_tuchman,PPN,United States historian (1912-1989)
+barbara_wertheim_tuch,young_man,PPN,United States historian (1912-1989),barbara_wertheim_tuchwoman,,,barbara_wertheim_tuchman,PPN,United States historian (1912-1989)
+barge,young_man,N,someone who operates a barge,bargewoman,,,bargeman,N,someone who operates a barge
+bar,young_man,N,an employee who mixes and serves alcoholic drinks at a bar,barwoman,,,barman,N,an employee who mixes and serves alcoholic drinks at a bar
+barrow-,young_man,N,a hawker of fruit and vegetables from a barrow,barrow-woman,,,barrow-man,N,a hawker of fruit and vegetables from a barrow
+bat,young_man,N,an orderly assigned to serve a British military officer,batwoman,,,batman,N,an orderly assigned to serve a British military officer
+bats,young_man,,(baseball) a ballplayer who is batting,batswoman,,,batsman,,(baseball) a ballplayer who is batting
+beads,young_man,N,a person who is paid to pray for the soul of another,beadswoman,,,beadsman,N,a person who is paid to pray for the soul of another
+bedes,young_man,N,a person who is paid to pray for the soul of another,bedeswoman,,,bedesman,N,a person who is paid to pray for the soul of another
+beef_,young_man,M,a man who raises (or tends) cattle,beef_woman,,,beef_man,M,a man who raises (or tends) cattle
+belle_miriam_silver,young_man,PPN,United States operatic soprano (born in 1929),belle_miriam_silverwoman,,,belle_miriam_silverman,PPN,United States operatic soprano (born in 1929)
+bell,young_man,N,someone employed as an errand boy and luggage carrier around hotels,bellwoman,,,bellman,N,someone employed as an errand boy and luggage carrier around hotels
+benjamin_david_good,young_man,PPN,United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986),benjamin_david_goodwoman,,,benjamin_david_goodman,PPN,United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986)
+benny_good,young_man,PPN,United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986),benny_goodwoman,,,benny_goodman,PPN,United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986)
+berg,young_man,PPN,Swedish film actress (1915-1982),bergwoman,,,bergman,PPN,Swedish film actress (1915-1982)
+best_,young_man,M,the principal groomsman at a wedding,best_woman,,,best_man,M,the principal groomsman at a wedding
+big_business,young_man,N,a very wealthy or powerful businessman,big_businesswoman,,,big_businessman,N,a very wealthy or powerful businessman
+boat,young_man,N,someone who drives or rides in a boat,boatwoman,,,boatman,N,someone who drives or rides in a boat
+bogey,young_man,,an imaginary monster used to frighten children,bogeywoman,,,bogeyman,,an imaginary monster used to frighten children
+boogey,young_man,,an imaginary monster used to frighten children,boogeywoman,,,boogeyman,,an imaginary monster used to frighten children
+book,young_man,N,a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines,bookwoman,,,bookman,N,a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines
+border_patrol,young_man,N,someone who patrols the borders of a country,border_patrolwoman,,,border_patrolman,N,someone who patrols the borders of a country
+bow,young_man,N,a person who is expert in the use of a bow and arrow,bowwoman,,,bowman,N,a person who is expert in the use of a bow and arrow
+brah,young_man,N,a member of a social and cultural elite (especially a descendant of an old New England family),brahwoman,,,brahman,N,a member of a social and cultural elite (especially a descendant of an old New England family)
+brake,young_man,N,a railroad employee responsible for a train's brakes,brakewoman,,,brakeman,N,a railroad employee responsible for a train's brakes
+broth_of_a_,young_man,N,an outstanding person; as if produced by boiling down a savory broth,broth_of_a_woman,,,broth_of_a_man,N,an outstanding person; as if produced by boiling down a savory broth
+bush,young_man,N,a member of the race of nomadic hunters and gatherers who live in southern Africa,bushwoman,,,bushman,N,a member of the race of nomadic hunters and gatherers who live in southern Africa
+bus,young_man,N,someone who drives a bus,buswoman,,,busman,N,someone who drives a bus
+cab,young_man,N,someone who drives a taxi for a living,cabwoman,,,cabman,N,someone who drives a taxi for a living
+camera,young_man,N,a photographer who operates a movie camera,camerawoman,,,cameraman,N,a photographer who operates a movie camera
+cardinal_new,young_man,PPN,English prelate and theologian who (with John Keble and Edward Pusey) founded the Oxford movement; Newman later turned to Roman Catholicism and became a cardinal (1801-1890),cardinal_newwoman,,,cardinal_newman,PPN,English prelate and theologian who (with John Keble and Edward Pusey) founded the Oxford movement; Newman later turned to Roman Catholicism and became a cardinal (1801-1890)
+career_,young_man,M,a man who is a careerist,career_woman,,,career_man,M,a man who is a careerist
+cattle,young_man,M,a man who raises (or tends) cattle,cattlewoman,,,cattleman,M,a man who raises (or tends) cattle
+cavalry,young_man,N,a soldier in a motorized army unit,cavalrywoman,,,cavalryman,N,a soldier in a motorized army unit
+cave_,young_man,N,someone who lives in a cave,cave_woman,,,cave_man,N,someone who lives in a cave
+cave,young_man,N,someone who lives in a cave,cavewoman,,,caveman,N,someone who lives in a cave
+chap,young_man,PPN,United States pioneer who planted apple trees as he traveled (1774-1845),chapwoman,,,chapman,PPN,United States pioneer who planted apple trees as he traveled (1774-1845)
+charge,young_man,N,a workman employed to blast with explosives,chargewoman,,,chargeman,N,a workman employed to blast with explosives
+charlotte_anna_perkins_gil,young_man,PPN,United States feminist (1860-1935),charlotte_anna_perkins_gilwoman,,,charlotte_anna_perkins_gilman,PPN,United States feminist (1860-1935)
+china,young_man,,(ethnic slur) offensive term for a person of Chinese descent,chinawoman,,,chinaman,,(ethnic slur) offensive term for a person of Chinese descent
+christiaan_eijk,young_man,PPN,Dutch physician who discovered that beriberi is caused by a nutritional deficiency (1858-1930),christiaan_eijkwoman,,,christiaan_eijkman,PPN,Dutch physician who discovered that beriberi is caused by a nutritional deficiency (1858-1930)
+church,young_man,N,a clergyman or other person in religious orders,churchwoman,,,churchman,N,a clergyman or other person in religious orders
+city_,young_man,N,a financier who works in one of the banks in the City of London,city_woman,,,city_man,N,a financier who works in one of the banks in the City of London
+clergy,young_man,N,a member of the clergy and a spiritual leader of the Christian Church,clergywoman,,,clergyman,N,a member of the clergy and a spiritual leader of the Christian Church
+coach,young_man,M,a man who drives a coach (or carriage),coachwoman,,,coachman,M,a man who drives a coach (or carriage)
+coal,young_man,N,someone who delivers coal,coalwoman,,,coalman,N,someone who delivers coal
+coastguards,young_man,N,a member of a coastguard,coastguardswoman,,,coastguardsman,N,a member of a coastguard
+college_,young_man,N,a student (or former student) at a college or university,college_woman,,,college_man,N,a student (or former student) at a college or university
+common_,young_man,N,a person who holds no title,common_woman,,,common_man,N,a person who holds no title
+company_,young_man,N,an employee whose first loyalty is to the company rather than to fellow workers,company_woman,,,company_man,N,an employee whose first loyalty is to the company rather than to fellow workers
+con_,young_man,N,a swindler who exploits the confidence of his victim,con_woman,,,con_man,N,a swindler who exploits the confidence of his victim
+confidence_,young_man,N,a swindler who exploits the confidence of his victim,confidence_woman,,,confidence_man,N,a swindler who exploits the confidence of his victim
+conjure_,young_man,N,a witch doctor who practices conjury,conjure_woman,,,conjure_man,N,a witch doctor who practices conjury
+corner_,young_man,M,a man at one end of line of performers in a minstrel show; carries on humorous dialogue with the interlocutor,corner_woman,,,corner_man,M,a man at one end of line of performers in a minstrel show; carries on humorous dialogue with the interlocutor
+cousin-ger,young_man,N,the child of your aunt or uncle,cousin-gerwoman,,,cousin-german,N,the child of your aunt or uncle
+cow_,young_man,M,a man who raises (or tends) cattle,cow_woman,,,cow_man,M,a man who raises (or tends) cattle
+cow,young_man,N,a hired hand who tends cattle and performs other duties on horseback,cowwoman,,,cowman,N,a hired hand who tends cattle and performs other duties on horseback
+cracks,young_man,N,a thief who breaks open safes to steal valuable contents,crackswoman,,,cracksman,N,a thief who breaks open safes to steal valuable contents
+crafts,young_man,,a professional whose work is consistently of high quality,craftswoman,,,craftsman,,a professional whose work is consistently of high quality
+crags,young_man,,a climber of vertical rock faces,cragswoman,,,cragsman,,a climber of vertical rock faces
+crew,young_man,N,any member of a ship's crew,crewwoman,,,crewman,N,any member of a ship's crew
+customer's_,young_man,N,someone in charge of a client's account for an advertising agency or brokerage or other service business,customer's_woman,,,customer's_man,N,someone in charge of a client's account for an advertising agency or brokerage or other service business
+dairy,young_man,N,the owner or manager of a dairy,dairywoman,,,dairyman,N,the owner or manager of a dairy
+dales,young_man,N,a person who lives in the dales of northern England,daleswoman,,,dalesman,N,a person who lives in the dales of northern England
+david_barnard_stein,young_man,PPN,United States civil engineer noted for designing suspension bridges (including the George Washington Bridge) (1886-1960),david_barnard_steinwoman,,,david_barnard_steinman,PPN,United States civil engineer noted for designing suspension bridges (including the George Washington Bridge) (1886-1960)
+david_ries,young_man,PPN,United States sociologist (1909-2002),david_rieswoman,,,david_riesman,PPN,United States sociologist (1909-2002)
+delivery,young_man,N,someone employed to make deliveries,deliverywoman,,,deliveryman,N,someone employed to make deliveries
+desk,young_man,N,the police sergeant on duty in a police station,deskwoman,,,deskman,N,the police sergeant on duty in a police station
+dirty_old_,young_man,M,a middle-aged man with lecherous inclinations,dirty_old_woman,,,dirty_old_man,M,a middle-aged man with lecherous inclinations
+divorced_,young_man,M,a man who is divorced from (or separated from) his wife,divorced_woman,,,divorced_man,M,a man who is divorced from (or separated from) his wife
+domingo_de_guz,young_man,PPN,(Roman Catholic Church) Spanish priest who founded an order whose members became known as Dominicans or Black Friars (circa 1170-1221),domingo_de_guzwoman,,,domingo_de_guzman,PPN,(Roman Catholic Church) Spanish priest who founded an order whose members became known as Dominicans or Black Friars (circa 1170-1221)
+door,young_man,N,someone who guards an entrance,doorwoman,,,doorman,N,someone who guards an entrance
+drafts,young_man,N,a skilled worker who draws plans of buildings or machines,draftswoman,,,draftsman,N,a skilled worker who draws plans of buildings or machines
+drago,young_man,N,an interpreter and guide in the Near East; in the Ottoman Empire in the 18th and 19th centuries a translator of European languages for the Turkish and Arab authorities and most dragomans were Greek (many reached high positions in the government),dragowoman,,,dragoman,N,an interpreter and guide in the Near East; in the Ottoman Empire in the 18th and 19th centuries a translator of European languages for the Turkish and Arab authorities and most dragomans were Greek (many reached high positions in the government)
+draughts,young_man,N,a skilled worker who draws plans of buildings or machines,draughtswoman,,,draughtsman,N,a skilled worker who draws plans of buildings or machines
+dustin_hoff,young_man,PPN,versatile United States film actor (born in 1937),dustin_hoffwoman,,,dustin_hoffman,PPN,versatile United States film actor (born in 1937)
+dust,young_man,N,someone employed to collect and dispose of refuse,dustwoman,,,dustman,N,someone employed to collect and dispose of refuse
+dutch,young_man,N,a native or inhabitant of Holland,dutchwoman,,,dutchman,N,a native or inhabitant of Holland
+e._h._harri,young_man,PPN,United States railway tycoon (1848-1909),e._h._harriwoman,,,e._h._harriman,PPN,United States railway tycoon (1848-1909)
+earth,young_man,N,an inhabitant of the earth,earthwoman,,,earthman,N,an inhabitant of the earth
+east,young_man,PPN,United States inventor of a dry-plate process of developing photographic film and of flexible film (his firm introduced roll film) and of the box camera and of a process for color photography (1854-1932),eastwoman,,,eastman,PPN,United States inventor of a dry-plate process of developing photographic film and of flexible film (his firm introduced roll film) and of the box camera and of a process for color photography (1854-1932)
+edward_henry_harri,young_man,PPN,United States railway tycoon (1848-1909),edward_henry_harriwoman,,,edward_henry_harriman,PPN,United States railway tycoon (1848-1909)
+eijk,young_man,PPN,Dutch physician who discovered that beriberi is caused by a nutritional deficiency (1858-1930),eijkwoman,,,eijkman,PPN,Dutch physician who discovered that beriberi is caused by a nutritional deficiency (1858-1930)
+ek,young_man,PPN,Swedish oceanographer who recognized the role of the Coriolis effect on ocean currents (1874-1954),ekwoman,,,ekman,PPN,Swedish oceanographer who recognized the role of the Coriolis effect on ocean currents (1874-1954)
+elder_states,young_man,N,any influential person whose advice is highly respected,elder_stateswoman,,,elder_statesman,N,any influential person whose advice is highly respected
+elevator_,young_man,M,a man employed to operate an elevator,elevator_woman,,,elevator_man,M,a man employed to operate an elevator
+elizabeth_cochrane_sea,young_man,PPN,muckraking United States journalist who exposed bad conditions in mental institutions (1867-1922),elizabeth_cochrane_seawoman,,,elizabeth_cochrane_seaman,PPN,muckraking United States journalist who exposed bad conditions in mental institutions (1867-1922)
+elizabeth_sea,young_man,PPN,muckraking United States journalist who exposed bad conditions in mental institutions (1867-1922),elizabeth_seawoman,,,elizabeth_seaman,PPN,muckraking United States journalist who exposed bad conditions in mental institutions (1867-1922)
+emma_gold,young_man,PPN,United States anarchist (born in Russia) who opposed conscription; was deported to the Soviet Union in 1919 (1869-1940),emma_goldwoman,,,emma_goldman,PPN,United States anarchist (born in Russia) who opposed conscription; was deported to the Soviet Union in 1919 (1869-1940)
+end_,young_man,M,a man at one end of line of performers in a minstrel show; carries on humorous dialogue with the interlocutor,end_woman,,,end_man,M,a man at one end of line of performers in a minstrel show; carries on humorous dialogue with the interlocutor
+ent_,young_man,,a specialist in the disorders of the ear or nose or throat,ent_woman,,,ent_man,,a specialist in the disorders of the ear or nose or throat
+ethel_mer,young_man,PPN,United States singer who appeared in several musical comedies (1909-1984),ethel_merwoman,,,ethel_merman,PPN,United States singer who appeared in several musical comedies (1909-1984)
+every,young_man,N,the ordinary person,everywoman,,,everyman,N,the ordinary person
+ex-service,young_man,N,a person who has served in the armed forces,ex-servicewoman,,,ex-serviceman,N,a person who has served in the armed forces
+excise,young_man,N,someone who collects taxes for the government,excisewoman,,,exciseman,N,someone who collects taxes for the government
+family_,young_man,M,a man whose family is of major importance in his life,family_woman,,,family_man,M,a man whose family is of major importance in his life
+feral_,young_man,N,a person who is not socialized,feral_woman,,,feral_man,N,a person who is not socialized
+ferry,young_man,M,a man who operates a ferry,ferrywoman,,,ferryman,M,a man who operates a ferry
+feyn,young_man,PPN,United States physicist who contributed to the theory of the interaction of photons and electrons (1918-1988),feynwoman,,,feynman,PPN,United States physicist who contributed to the theory of the interaction of photons and electrons (1918-1988)
+fields,young_man,N,a member of the cricket team that is fielding rather than batting,fieldswoman,,,fieldsman,N,a member of the cricket team that is fielding rather than batting
+fingerprint_,young_man,N,a specialist in identifying fingerprints,fingerprint_woman,,,fingerprint_man,N,a specialist in identifying fingerprints
+fire,young_man,N,a laborer who tends fires (as on a coal-fired train or steamship),firewoman,,,fireman,N,a laborer who tends fires (as on a coal-fired train or steamship)
+first_base,young_man,,(baseball) the person who plays first base,first_basewoman,,,first_baseman,,(baseball) the person who plays first base
+fisher,young_man,N,someone whose occupation is catching fish,fisherwoman,,,fisherman,N,someone whose occupation is catching fish
+flying_dutch,young_man,N,the captain of a phantom ship (the Flying Dutchman) who was condemned to sail against the wind until Judgment Day,flying_dutchwoman,,,flying_dutchman,N,the captain of a phantom ship (the Flying Dutchman) who was condemned to sail against the wind until Judgment Day
+foe,young_man,N,an armed adversary (especially a member of an opposing military force),foewoman,,,foeman,N,an armed adversary (especially a member of an opposing military force)
+foot,young_man,M,a man employed as a servant in a large establishment (as a palace) to run errands and do chores,footwoman,,,footman,M,a man employed as a servant in a large establishment (as a palace) to run errands and do chores
+four-minute_,young_man,N,someone who has run the mile in less that 4 minutes,four-minute_woman,,,four-minute_man,N,someone who has run the mile in less that 4 minutes
+fried,young_man,PPN,United States economist noted as a proponent of monetarism and for his opposition to government intervention in the economy (born in 1912),friedwoman,,,friedman,PPN,United States economist noted as a proponent of monetarism and for his opposition to government intervention in the economy (born in 1912)
+frog,young_man,N,someone who works underwater,frogwoman,,,frogman,N,someone who works underwater
+front_,young_man,N,a person used as a cover for some questionable activity,front_woman,,,front_man,N,a person used as a cover for some questionable activity
+fugle,young_man,N,a leader and organizer and spokesman (especially a political leader),fuglewoman,,,fugleman,N,a leader and organizer and spokesman (especially a political leader)
+g-,young_man,N,a special law-enforcement agent of the Federal Bureau of Investigation,g-woman,,,g-man,N,a special law-enforcement agent of the Federal Bureau of Investigation
+gag,young_man,N,a comedian who uses gags,gagwoman,,,gagman,N,a comedian who uses gags
+garbage_,young_man,N,someone employed to collect and dispose of refuse,garbage_woman,,,garbage_man,N,someone employed to collect and dispose of refuse
+garbage,young_man,N,someone employed to collect and dispose of refuse,garbagewoman,,,garbageman,N,someone employed to collect and dispose of refuse
+gas,young_man,N,someone employed by a gas company,gaswoman,,,gasman,N,someone employed by a gas company
+gentle's_gentle,young_man,M,a manservant who acts as a personal attendant to his employer,gentlewoman's_gentlewoman,,,gentleman's_gentleman,M,a manservant who acts as a personal attendant to his employer
+george_east,young_man,PPN,United States inventor of a dry-plate process of developing photographic film and of flexible film (his firm introduced roll film) and of the box camera and of a process for color photography (1854-1932),george_eastwoman,,,george_eastman,PPN,United States inventor of a dry-plate process of developing photographic film and of flexible film (his firm introduced roll film) and of the box camera and of a process for color photography (1854-1932)
+george_s._kauf,young_man,PPN,United States playwright who collaborated with many other writers including Moss Hart (1889-1961),george_s._kaufwoman,,,george_s._kaufman,PPN,United States playwright who collaborated with many other writers including Moss Hart (1889-1961)
+george_simon_kauf,young_man,PPN,United States playwright who collaborated with many other writers including Moss Hart (1889-1961),george_simon_kaufwoman,,,george_simon_kaufman,PPN,United States playwright who collaborated with many other writers including Moss Hart (1889-1961)
+gil,young_man,PPN,United States feminist (1860-1935),gilwoman,,,gilman,PPN,United States feminist (1860-1935)
+gold,young_man,PPN,United States anarchist (born in Russia) who opposed conscription; was deported to the Soviet Union in 1919 (1869-1940),goldwoman,,,goldman,PPN,United States anarchist (born in Russia) who opposed conscription; was deported to the Soviet Union in 1919 (1869-1940)
+good,young_man,PPN,United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986),goodwoman,,,goodman,PPN,United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986)
+government_,young_man,N,a special law-enforcement agent of the Federal Bureau of Investigation,government_woman,,,government_man,N,a special law-enforcement agent of the Federal Bureau of Investigation
+greg_nor,young_man,PPN,Australian golfer (born in 1955),greg_norwoman,,,greg_norman,PPN,Australian golfer (born in 1955)
+gregory_john_nor,young_man,PPN,Australian golfer (born in 1955),gregory_john_norwoman,,,gregory_john_norman,PPN,Australian golfer (born in 1955)
+grooms,young_man,M,a male attendant of the bridegroom at a wedding,groomswoman,,,groomsman,M,a male attendant of the bridegroom at a wedding
+grounds,young_man,N,someone who maintains the grounds (of an estate or park or athletic field),groundswoman,,,groundsman,N,someone who maintains the grounds (of an estate or park or athletic field)
+guards,young_man,N,a soldier who is a member of a unit called `the guard' or `guards',guardswoman,,,guardsman,N,a soldier who is a member of a unit called `the guard' or `guards'
+gun,young_man,N,a professional killer who uses a gun,gunwoman,,,gunman,N,a professional killer who uses a gun
+hachi,young_man,,a Shinto god of war,hachiwoman,,,hachiman,,a Shinto god of war
+ha,young_man,PPN,(Old Testament) the minister of the Persian emperor who hated the Jews and was hanged for plotting to massacre them,hawoman,,,haman,PPN,(Old Testament) the minister of the Persian emperor who hated the Jews and was hanged for plotting to massacre them
+handy,young_man,M,a man skilled in various odd jobs and other small tasks,handywoman,,,handyman,M,a man skilled in various odd jobs and other small tasks
+hang,young_man,N,an executioner who hangs the condemned person,hangwoman,,,hangman,N,an executioner who hangs the condemned person
+hanu,young_man,,"in Hinduism, the monkey god and helper of Rama; god of devotion and courage",hanuwoman,,,hanuman,,"in Hinduism, the monkey god and helper of Rama; god of devotion and courage"
+hardware,young_man,N,someone who sells hardware,hardwarewoman,,,hardwareman,N,someone who sells hardware
+harriet_tub,young_man,PPN,United States abolitionist born a slave on a plantation in Maryland and became a famous conductor on the Underground Railroad leading other slaves to freedom in the North (1820-1913),harriet_tubwoman,,,harriet_tubman,PPN,United States abolitionist born a slave on a plantation in Maryland and became a famous conductor on the Underground Railroad leading other slaves to freedom in the North (1820-1913)
+harri,young_man,PPN,United States financier who negotiated a treaty with the Soviet Union banning tests of nuclear weapons (1891-1986),harriwoman,,,harriman,PPN,United States financier who negotiated a treaty with the Soviet Union banning tests of nuclear weapons (1891-1986)
+harry_s_tru,young_man,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972),harry_s_truwoman,,,harry_s_truman,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972)
+harry_tru,young_man,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972),harry_truwoman,,,harry_truman,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972)
+hatchet_,young_man,N,a professional killer,hatchet_woman,,,hatchet_man,N,a professional killer
+he-,young_man,M,a man who is virile and sexually active,he-woman,,,he-man,M,a man who is virile and sexually active
+head_lines,young_man,N,a football official in charge of recording yardage gained or lost,head_lineswoman,,,head_linesman,N,a football official in charge of recording yardage gained or lost
+head,young_man,N,an executioner who beheads the condemned person,headwoman,,,headman,N,an executioner who beheads the condemned person
+heads,young_man,N,an executioner who beheads the condemned person,headswoman,,,headsman,N,an executioner who beheads the condemned person
+heidelberg_,young_man,N,a type of primitive man who lived in Europe,heidelberg_woman,,,heidelberg_man,N,a type of primitive man who lived in Europe
+hell,young_man,PPN,United States playwright; her plays were often indictments of injustice (1905-1984),hellwoman,,,hellman,PPN,United States playwright; her plays were often indictments of injustice (1905-1984)
+helms,young_man,N,the person who steers a ship,helmswoman,,,helmsman,N,the person who steers a ship
+hench,young_man,N,someone who assists in a plot,henchwoman,,,henchman,N,someone who assists in a plot
+herds,young_man,N,someone who drives a herd,herdswoman,,,herdsman,N,someone who drives a herd
+her,young_man,PPN,United States jazz musician and bandleader (1913-1987),herwoman,,,herman,PPN,United States jazz musician and bandleader (1913-1987)
+highway,young_man,M,a holdup man who stops a vehicle and steals from it,highwaywoman,,,highwayman,M,a holdup man who stops a vehicle and steals from it
+hired_,young_man,N,a hired laborer on a farm or ranch,hired_woman,,,hired_man,N,a hired laborer on a farm or ranch
+hit_,young_man,N,a professional killer who uses a gun,hit_woman,,,hit_man,N,a professional killer who uses a gun
+hit,young_man,N,a professional killer who uses a gun,hitwoman,,,hitman,N,a professional killer who uses a gun
+hod,young_man,N,a laborer who carries supplies to masons or bricklayers,hodwoman,,,hodman,N,a laborer who carries supplies to masons or bricklayers
+hoff,young_man,PPN,United States sculptor (1887-1966),hoffwoman,,,hoffman,PPN,United States sculptor (1887-1966)
+holdup_,young_man,N,an armed thief,holdup_woman,,,holdup_man,N,an armed thief
+holy_,young_man,N,person of exceptional holiness,holy_woman,,,holy_man,N,person of exceptional holiness
+hotel,young_man,N,an owner or manager of hotels,hotelwoman,,,hotelman,N,an owner or manager of hotels
+house,young_man,,an advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a British term),housewoman,,,houseman,,an advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a British term)
+hous,young_man,PPN,English poet (1859-1936),houswoman,,,housman,PPN,English poet (1859-1936)
+hunts,young_man,N,someone who hunts game,huntswoman,,,huntsman,N,someone who hunts game
+husband,young_man,N,a person who operates a farm,husbandwoman,,,husbandman,N,a person who operates a farm
+ice,young_man,N,someone who cuts and delivers ice,icewoman,,,iceman,N,someone who cuts and delivers ice
+infantry,young_man,,fights on foot with small arms,infantrywoman,,,infantryman,,fights on foot with small arms
+inger,young_man,N,a member of western Finnish people formerly living in the Baltic province where Saint Petersburg was built,ingerwoman,,,ingerman,N,a member of western Finnish people formerly living in the Baltic province where Saint Petersburg was built
+ingmar_berg,young_man,PPN,Swedish film director who used heavy symbolism and explored the psychology of the characters (born 1918),ingmar_bergwoman,,,ingmar_bergman,PPN,Swedish film director who used heavy symbolism and explored the psychology of the characters (born 1918)
+ingrid_berg,young_man,PPN,Swedish film actress (1915-1982),ingrid_bergwoman,,,ingrid_bergman,PPN,Swedish film actress (1915-1982)
+iron_,young_man,M,a strong man of exceptional physical endurance,iron_woman,,,iron_man,M,a strong man of exceptional physical endurance
+iron,young_man,M,a strong man of exceptional physical endurance,ironwoman,,,ironman,M,a strong man of exceptional physical endurance
+jazz,young_man,N,a musician who plays or composes jazz music,jazzwoman,,,jazzman,N,a musician who plays or composes jazz music
+jessye_nor,young_man,PPN,United States operatic soprano (born in 1945),jessye_norwoman,,,jessye_norman,PPN,United States operatic soprano (born in 1945)
+john_chap,young_man,PPN,United States pioneer who planted apple trees as he traveled (1774-1845),john_chapwoman,,,john_chapman,PPN,United States pioneer who planted apple trees as he traveled (1774-1845)
+john_henry_new,young_man,PPN,English prelate and theologian who (with John Keble and Edward Pusey) founded the Oxford movement; Newman later turned to Roman Catholicism and became a cardinal (1801-1890),john_henry_newwoman,,,john_henry_newman,PPN,English prelate and theologian who (with John Keble and Edward Pusey) founded the Oxford movement; Newman later turned to Roman Catholicism and became a cardinal (1801-1890)
+journey,young_man,N,a skilled worker who practices some trade or handicraft,journeywoman,,,journeyman,N,a skilled worker who practices some trade or handicraft
+julius_ull,young_man,PPN,United States film actor noted for his swashbuckling roles (1883-1939),julius_ullwoman,,,julius_ullman,PPN,United States film actor noted for his swashbuckling roles (1883-1939)
+kauf,young_man,PPN,United States playwright who collaborated with many other writers including Moss Hart (1889-1961),kaufwoman,,,kaufman,PPN,United States playwright who collaborated with many other writers including Moss Hart (1889-1961)
+klans,young_man,N,a member of the Ku Klux Klan,klanswoman,,,klansman,N,a member of the Ku Klux Klan
+ladies'_,young_man,M,a man who takes advantage of women,ladies'_woman,,,ladies'_man,M,a man who takes advantage of women
+land,young_man,N,a person who lives and works on land,landwoman,,,landman,N,a person who lives and works on land
+lands,young_man,N,a person who lives and works on land,landswoman,,,landsman,N,a person who lives and works on land
+law,young_man,N,an officer of the law,lawwoman,,,lawman,N,an officer of the law
+lay,young_man,N,someone who is not a clergyman or a professional person,laywoman,,,layman,N,someone who is not a clergyman or a professional person
+leading_,young_man,N,actor who plays the leading male role,leading_woman,,,leading_man,N,actor who plays the leading male role
+ledge,young_man,N,a quarry worker who splits off blocks of stone,ledgewoman,,,ledgeman,N,a quarry worker who splits off blocks of stone
+lens,young_man,N,someone who takes photographs professionally,lenswoman,,,lensman,N,someone who takes photographs professionally
+letter,young_man,N,an athlete who has earned a letter in a school sport,letterwoman,,,letterman,N,an athlete who has earned a letter in a school sport
+liege,young_man,N,a person holding a fief; a person who owes allegiance and service to a feudal lord,liegewoman,,,liegeman,N,a person holding a fief; a person who owes allegiance and service to a feudal lord
+lift,young_man,M,a man employed to operate an elevator,liftwoman,,,liftman,M,a man employed to operate an elevator
+lighter,young_man,N,someone who operates a barge,lighterwoman,,,lighterman,N,someone who operates a barge
+lillian_hell,young_man,PPN,United States playwright; her plays were often indictments of injustice (1905-1984),lillian_hellwoman,,,lillian_hellman,PPN,United States playwright; her plays were often indictments of injustice (1905-1984)
+line,young_man,N,one of the players on the line of scrimmage,linewoman,,,lineman,N,one of the players on the line of scrimmage
+lines,young_man,N,"official (in tennis, soccer, football, etc.) who assists the referee in some way (especially by watching for out of bounds or offside)",lineswoman,,,linesman,N,"official (in tennis, soccer, football, etc.) who assists the referee in some way (especially by watching for out of bounds or offside)"
+link,young_man,,(formerly) an attendant hired to carry a torch for pedestrians in dark streets,linkwoman,,,linkman,,(formerly) an attendant hired to carry a torch for pedestrians in dark streets
+links,young_man,N,someone who plays the game of golf,linkswoman,,,linksman,N,someone who plays the game of golf
+livery,young_man,N,a worker in a livery stable,liverywoman,,,liveryman,N,a worker in a livery stable
+lobster,young_man,N,a person whose occupation is catching lobsters,lobsterwoman,,,lobsterman,N,a person whose occupation is catching lobsters
+lock,young_man,N,a worker in charge of a lock (on a canal),lockwoman,,,lockman,N,a worker in charge of a lock (on a canal)
+longbow,young_man,N,a medieval English archer who used a longbow,longbowwoman,,,longbowman,N,a medieval English archer who used a longbow
+longshore,young_man,N,a laborer who loads and unloads vessels in a port,longshorewoman,,,longshoreman,N,a laborer who loads and unloads vessels in a port
+lookout_,young_man,N,a person employed to keep watch for some anticipated event,lookout_woman,,,lookout_man,N,a person employed to keep watch for some anticipated event
+louis_the_ger,young_man,PPN,king of France and Germany (846-879),louis_the_gerwoman,,,louis_the_german,PPN,king of France and Germany (846-879)
+lowerclass,young_man,N,an undergraduate who is not yet a senior,lowerclasswoman,,,lowerclassman,N,an undergraduate who is not yet a senior
+lumber,young_man,N,a person who fells trees,lumberwoman,,,lumberman,N,a person who fells trees
+macho-,young_man,M,a man who is virile and sexually active,macho-woman,,,macho-man,M,a man who is virile and sexually active
+mail,young_man,M,a man who delivers the mail,mailwoman,,,mailman,M,a man who delivers the mail
+maintenance_,young_man,N,a skilled worker whose job is to repair things,maintenance_woman,,,maintenance_man,N,a skilled worker whose job is to repair things
+malt,young_man,N,a maker of malt,maltwoman,,,maltman,N,a maker of malt
+malvina_hoff,young_man,PPN,United States sculptor (1887-1966),malvina_hoffwoman,,,malvina_hoffman,PPN,United States sculptor (1887-1966)
+marcus_whit,young_man,PPN,United States frontier missionary who established a post in Oregon where Christianity and schooling and medicine were available to Native Americans (1802-1847),marcus_whitwoman,,,marcus_whitman,PPN,United States frontier missionary who established a post in Oregon where Christianity and schooling and medicine were available to Native Americans (1802-1847)
+marks,young_man,N,someone skilled in shooting,markswoman,,,marksman,N,someone skilled in shooting
+mat,young_man,N,combatant who tries to throw opponent to the ground,matwoman,,,matman,N,combatant who tries to throw opponent to the ground
+meat,young_man,N,a retailer of meat,meatwoman,,,meatman,N,a retailer of meat
+medical_,young_man,N,someone who practices medicine,medical_woman,,,medical_man,N,someone who practices medicine
+medicine_,young_man,,a Native American shaman,medicine_woman,,,medicine_man,,a Native American shaman
+medieval_school,young_man,N,a scholar in one of the universities of the Middle Ages; versed in scholasticism,medieval_schoolwoman,,,medieval_schoolman,N,a scholar in one of the universities of the Middle Ages; versed in scholasticism
+mer,young_man,PPN,United States singer who appeared in several musical comedies (1909-1984),merwoman,,,merman,PPN,United States singer who appeared in several musical comedies (1909-1984)
+middle-aged_,young_man,M,a man who is roughly between 45 and 65 years old,middle-aged_woman,,,middle-aged_man,M,a man who is roughly between 45 and 65 years old
+middle,young_man,N,someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers,middlewoman,,,middleman,N,someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers
+midship,young_man,,a temporary rank held by young naval officers in training,midshipwoman,,,midshipman,,a temporary rank held by young naval officers in training
+military_,young_man,N,someone who serves in the armed forces; a member of a military force,military_woman,,,military_man,N,someone who serves in the armed forces; a member of a military force
+military_police,young_man,N,a member of the military police who polices soldiers and guards prisoners,military_policewoman,,,military_policeman,N,a member of the military police who polices soldiers and guards prisoners
+militia,young_man,N,a member of the militia; serves only during emergencies,militiawoman,,,militiaman,N,a member of the militia; serves only during emergencies
+milk,young_man,N,someone who delivers milk,milkwoman,,,milkman,N,someone who delivers milk
+milton_fried,young_man,PPN,United States economist noted as a proponent of monetarism and for his opposition to government intervention in the economy (born in 1912),milton_friedwoman,,,milton_friedman,PPN,United States economist noted as a proponent of monetarism and for his opposition to government intervention in the economy (born in 1912)
+minute,young_man,N,an American militiaman prior to and during the American Revolution,minutewoman,,,minuteman,N,an American militiaman prior to and during the American Revolution
+miracle_,young_man,N,a person who claims or is alleged to perform miracles,miracle_woman,,,miracle_man,N,a person who claims or is alleged to perform miracles
+money,young_man,N,a person skilled in large scale financial transactions,moneywoman,,,moneyman,N,a person skilled in large scale financial transactions
+motorcycle_police,young_man,N,a policeman who rides a motorcycle (and who checks the speeds of motorists),motorcycle_policewoman,,,motorcycle_policeman,N,a policeman who rides a motorcycle (and who checks the speeds of motorists)
+motor,young_man,N,the operator of streetcar,motorwoman,,,motorman,N,the operator of streetcar
+mountain_,young_man,M,a man who lives on the frontier,mountain_woman,,,mountain_man,M,a man who lives on the frontier
+muffin_,young_man,N,formerly an itinerant peddler of muffins,muffin_woman,,,muffin_man,N,formerly an itinerant peddler of muffins
+muscle,young_man,M,a bully employed as a thug or bodyguard,musclewoman,,,muscleman,M,a bully employed as a thug or bodyguard
+navy_,young_man,N,a serviceman in the navy,navy_woman,,,navy_man,N,a serviceman in the navy
+new,young_man,PPN,United States film actor (born in 1925),newwoman,,,newman,PPN,United States film actor (born in 1925)
+night_watch,young_man,N,a watchman who works during the night,night_watchwoman,,,night_watchman,N,a watchman who works during the night
+norse,young_man,N,a native or inhabitant of Norway,norsewoman,,,norseman,N,a native or inhabitant of Norway
+north,young_man,N,an inhabitant of Scandinavia,northwoman,,,northman,N,an inhabitant of Scandinavia
+nursery,young_man,N,someone who takes care of a garden,nurserywoman,,,nurseryman,N,someone who takes care of a garden
+odd-job_,young_man,M,a man skilled in various odd jobs and other small tasks,odd-job_woman,,,odd-job_man,M,a man skilled in various odd jobs and other small tasks
+oil,young_man,N,a person who owns or operates oil wells,oilwoman,,,oilman,N,a person who owns or operates oil wells
+oklaho,young_man,N,a native or resident of Oklahoma,oklahowoman,,,oklahoman,N,a native or resident of Oklahoma
+ombuds,young_man,N,a government appointee who investigates complaints by private persons against the government,ombudswoman,,,ombudsman,N,a government appointee who investigates complaints by private persons against the government
+orange,young_man,PPN,a member of a society founded in Ireland in 1795 to uphold Protestantism and the British sovereign,orangewoman,,,orangeman,PPN,a member of a society founded in Ireland in 1795 to uphold Protestantism and the British sovereign
+organization_,young_man,N,an employee who sacrifices his own individuality for the good of an organization,organization_woman,,,organization_man,N,an employee who sacrifices his own individuality for the good of an organization
+outdoor_,young_man,N,someone who enjoys outdoor activities,outdoor_woman,,,outdoor_man,N,someone who enjoys outdoor activities
+pack,young_man,N,someone who travels about selling his wares (as on the streets or at carnivals),packwoman,,,packman,N,someone who travels about selling his wares (as on the streets or at carnivals)
+pantry,young_man,M,a manservant (usually the head servant of a household) who has charge of wines and the table,pantrywoman,,,pantryman,M,a manservant (usually the head servant of a household) who has charge of wines and the table
+party_,young_man,N,a member of a political party who follows strictly the party line,party_woman,,,party_man,N,a member of a political party who follows strictly the party line
+patrol,young_man,N,a policeman who patrols a given region,patrolwoman,,,patrolman,N,a policeman who patrols a given region
+paul_leonard_new,young_man,PPN,United States film actor (born in 1925),paul_leonard_newwoman,,,paul_leonard_newman,PPN,United States film actor (born in 1925)
+paul_new,young_man,PPN,United States film actor (born in 1925),paul_newwoman,,,paul_newman,PPN,United States film actor (born in 1925)
+pen,young_man,,informal terms for journalists,penwoman,,,penman,,informal terms for journalists
+pieter_zee,young_man,PPN,Dutch physicist honored for his research on the influence of magnetism on radiation which showed that light is radiated by the motion of charged particles in an atom (1865-1943),pieter_zeewoman,,,pieter_zeeman,PPN,Dutch physicist honored for his research on the influence of magnetism on radiation which showed that light is radiated by the motion of charged particles in an atom (1865-1943)
+pig,young_man,N,a herder or swine,pigwoman,,,pigman,N,a herder or swine
+piltdown_,young_man,,a supposedly primitive man later proven to be a hoax,piltdown_woman,,,piltdown_man,,a supposedly primitive man later proven to be a hoax
+pinchas_zuker,young_man,PPN,Israeli violinist (born in 1948),pinchas_zukerwoman,,,pinchas_zukerman,PPN,Israeli violinist (born in 1948)
+pitch,young_man,M,an aggressive salesman who uses a fast line of talk to sell something,pitchwoman,,,pitchman,M,an aggressive salesman who uses a fast line of talk to sell something
+pit,young_man,PPN,English educator who invented a system of phonetic shorthand (1813-1897),pitwoman,,,pitman,PPN,English educator who invented a system of phonetic shorthand (1813-1897)
+pivot_,young_man,N,the person in a rank around whom the others wheel and maneuver,pivot_woman,,,pivot_man,N,the person in a rank around whom the others wheel and maneuver
+place,young_man,,a disparaging term for an appointee,placewoman,,,placeman,,a disparaging term for an appointee
+plainclothes,young_man,N,a detective who wears civilian clothes on duty,plainclotheswoman,,,plainclothesman,N,a detective who wears civilian clothes on duty
+plains,young_man,N,an inhabitant of a plains region (especially the Great Plains of North America),plainswoman,,,plainsman,N,an inhabitant of a plains region (especially the Great Plains of North America)
+plants,young_man,N,an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants),plantswoman,,,plantsman,N,an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants)
+plough,young_man,M,a man who plows,ploughwoman,,,ploughman,M,a man who plows
+plow,young_man,M,a man who plows,plowwoman,,,plowman,M,a man who plows
+points,young_man,N,a policeman stationed at an intersection to direct traffic,pointswoman,,,pointsman,N,a policeman stationed at an intersection to direct traffic
+posse,young_man,M,an able-bodied man serving as a member of a posse,possewoman,,,posseman,M,an able-bodied man serving as a member of a posse
+post,young_man,M,a man who delivers the mail,postwoman,,,postman,M,a man who delivers the mail
+pot,young_man,N,a worker in an inn or public house who serves customers and does various chores,potwoman,,,potman,N,a worker in an inn or public house who serves customers and does various chores
+poultry,young_man,N,a dealer in poultry and poultry products,poultrywoman,,,poultryman,N,a dealer in poultry and poultry products
+pr_,young_man,N,someone employed to arrange publicity (for a firm or a public figure),pr_woman,,,pr_man,N,someone employed to arrange publicity (for a firm or a public figure)
+preacher_,young_man,N,someone whose occupation is preaching the gospel,preacher_woman,,,preacher_man,N,someone whose occupation is preaching the gospel
+president_tru,young_man,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972),president_truwoman,,,president_truman,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972)
+press,young_man,,someone whose occupation is printing,presswoman,,,pressman,,someone whose occupation is printing
+privateers,young_man,N,an officer or crew member of a privateer,privateerswoman,,,privateersman,N,an officer or crew member of a privateer
+property_,young_man,N,member of the stage crew in charge of properties,property_woman,,,property_man,N,member of the stage crew in charge of properties
+prop,young_man,N,member of the stage crew in charge of properties,propwoman,,,propman,N,member of the stage crew in charge of properties
+public_relations_,young_man,N,someone employed to arrange publicity (for a firm or a public figure),public_relations_woman,,,public_relations_man,N,someone employed to arrange publicity (for a firm or a public figure)
+publicity_,young_man,N,someone employed to arrange publicity (for a firm or a public figure),publicity_woman,,,publicity_man,N,someone employed to arrange publicity (for a firm or a public figure)
+quarry,young_man,M,a man who works in a quarry,quarrywoman,,,quarryman,M,a man who works in a quarry
+raft,young_man,N,someone who travels by raft,raftwoman,,,raftman,N,someone who travels by raft
+rafts,young_man,N,someone who travels by raft,raftswoman,,,raftsman,N,someone who travels by raft
+railroad_,young_man,N,an employee of a railroad,railroad_woman,,,railroad_man,N,an employee of a railroad
+railway_,young_man,N,an employee of a railroad,railway_woman,,,railway_man,N,an employee of a railroad
+railway,young_man,N,an employee of a railroad,railwaywoman,,,railwayman,N,an employee of a railroad
+ram,young_man,,god of storms and wind; corresponds to Babylonian Adad,ramwoman,,,ramman,,god of storms and wind; corresponds to Babylonian Adad
+red_,young_man,,(slang) offensive term for Native Americans,red_woman,,,red_man,,(slang) offensive term for Native Americans
+remittance_,young_man,N,an exile living on money sent from home,remittance_woman,,,remittance_man,N,an exile living on money sent from home
+renaissance_,young_man,N,a modern scholar who is in a position to acquire more than superficial knowledge about many different interests,renaissance_woman,,,renaissance_man,N,a modern scholar who is in a position to acquire more than superficial knowledge about many different interests
+repair,young_man,N,a skilled worker whose job is to repair things,repairwoman,,,repairman,N,a skilled worker whose job is to repair things
+rewrite_,young_man,N,someone who puts text into appropriate form for publication,rewrite_woman,,,rewrite_man,N,someone who puts text into appropriate form for publication
+rhodesian_,young_man,,a primitive hominid resembling Neanderthal man but living in Africa,rhodesian_woman,,,rhodesian_man,,a primitive hominid resembling Neanderthal man but living in Africa
+rich_,young_man,M,a man who is wealthy,rich_woman,,,rich_man,M,a man who is wealthy
+richard_feyn,young_man,PPN,United States physicist who contributed to the theory of the interaction of photons and electrons (1918-1988),richard_feynwoman,,,richard_feynman,PPN,United States physicist who contributed to the theory of the interaction of photons and electrons (1918-1988)
+richard_phillips_feyn,young_man,PPN,United States physicist who contributed to the theory of the interaction of photons and electrons (1918-1988),richard_phillips_feynwoman,,,richard_phillips_feynman,PPN,United States physicist who contributed to the theory of the interaction of photons and electrons (1918-1988)
+ries,young_man,PPN,United States sociologist (1909-2002),rieswoman,,,riesman,PPN,United States sociologist (1909-2002)
+rifle,young_man,N,someone skilled in the use of a rifle,riflewoman,,,rifleman,N,someone skilled in the use of a rifle
+right-hand_,young_man,N,the most helpful assistant,right-hand_woman,,,right-hand_man,N,the most helpful assistant
+road,young_man,M,a salesman who travels to call on customers,roadwoman,,,roadman,M,a salesman who travels to call on customers
+roger_sher,young_man,PPN,American Revolutionary leader and signer of the Declaration of Independence and the Articles of Confederation and the United States Constitution (1721-1793),roger_sherwoman,,,roger_sherman,PPN,American Revolutionary leader and signer of the Declaration of Independence and the Articles of Confederation and the United States Constitution (1721-1793)
+rounds,young_man,N,a workman employed to make rounds (to deliver goods or make inspections or so on),roundswoman,,,roundsman,N,a workman employed to make rounds (to deliver goods or make inspections or so on)
+sand,young_man,,an elf in fairy stories who sprinkles sand in children's eyes to make them sleepy,sandwoman,,,sandman,,an elf in fairy stories who sprinkles sand in children's eyes to make them sleepy
+sandwich,young_man,N,a person with advertising boards hanging from the shoulders,sandwichwoman,,,sandwichman,N,a person with advertising boards hanging from the shoulders
+school,young_man,N,a scholar in one of the universities of the Middle Ages; versed in scholasticism,schoolwoman,,,schoolman,N,a scholar in one of the universities of the Middle Ages; versed in scholasticism
+sea,young_man,M,a man who serves as a sailor,seawoman,,,seaman,M,a man who serves as a sailor
+second_base,young_man,,(baseball) the person who plays second base,second_basewoman,,,second_baseman,,(baseball) the person who plays second base
+section_,young_man,N,someone who teaches a section of a large college course,section_woman,,,section_man,N,someone who teaches a section of a large college course
+seed,young_man,N,a dealer in seeds,seedwoman,,,seedman,N,a dealer in seeds
+seeds,young_man,N,a dealer in seeds,seedswoman,,,seedsman,N,a dealer in seeds
+service_,young_man,N,a skilled worker whose job is to repair things,service_woman,,,service_man,N,a skilled worker whose job is to repair things
+service,young_man,N,someone who serves in the armed forces; a member of a military force,servicewoman,,,serviceman,N,someone who serves in the armed forces; a member of a military force
+sha,young_man,,in societies practicing shamanism: one acting as a medium between the visible and spirit worlds; practices sorcery for healing or divination,shawoman,,,shaman,,in societies practicing shamanism: one acting as a medium between the visible and spirit worlds; practices sorcery for healing or divination
+sheep,young_man,M,a man who raises (or tends) sheep,sheepwoman,,,sheepman,M,a man who raises (or tends) sheep
+sher,young_man,PPN,United States general who was commander of all Union troops in the West; he captured Atlanta and led a destructive march to the sea that cut the Confederacy in two (1820-1891),sherwoman,,,sherman,PPN,United States general who was commander of all Union troops in the West; he captured Atlanta and led a destructive march to the sea that cut the Confederacy in two (1820-1891)
+show,young_man,N,a person skilled at making effective presentations,showwoman,,,showman,N,a person skilled at making effective presentations
+sides,young_man,,(Church of England) an assistant to the churchwarden; collects offerings of money in the church,sideswoman,,,sidesman,,(Church of England) an assistant to the churchwarden; collects offerings of money in the church
+signal,young_man,N,a railroad employee in charge of signals and point in a railroad yard,signalwoman,,,signalman,N,a railroad employee in charge of signals and point in a railroad yard
+sir_isaac_pit,young_man,PPN,English educator who invented a system of phonetic shorthand (1813-1897),sir_isaac_pitwoman,,,sir_isaac_pitman,PPN,English educator who invented a system of phonetic shorthand (1813-1897)
+skilled_work,young_man,N,a worker who has acquired special skills,skilled_workwoman,,,skilled_workman,N,a worker who has acquired special skills
+small_business,young_man,PPN,a businessman who runs a business employing less than 100 people,small_businesswoman,,,small_businessman,PPN,a businessman who runs a business employing less than 100 people
+sound,young_man,N,a technician in charge of amplifying sound or producing sound effects (as for a TV or radio broadcast),soundwoman,,,soundman,N,a technician in charge of amplifying sound or producing sound effects (as for a TV or radio broadcast)
+space,young_man,N,a person trained to travel in a spacecraft,spacewoman,,,spaceman,N,a person trained to travel in a spacecraft
+sporting_,young_man,N,someone who leads a merry existence; especially a gambler on the outcome of sporting events,sporting_woman,,,sporting_man,N,someone who leads a merry existence; especially a gambler on the outcome of sporting events
+squaw_,young_man,M,a white man married to a North American Indian woman,squaw_woman,,,squaw_man,M,a white man married to a North American Indian woman
+stable,young_man,N,someone employed in a stable to take care of the horses,stablewoman,,,stableman,N,someone employed in a stable to take care of the horses
+stan_the_,young_man,PPN,United States baseball player (born in 1920),stan_the_woman,,,stan_the_man,PPN,United States baseball player (born in 1920)
+steel,young_man,N,a worker engaged in making steel,steelwoman,,,steelman,N,a worker engaged in making steel
+steers,young_man,N,the person who steers a ship,steerswoman,,,steersman,N,the person who steers a ship
+stein,young_man,PPN,United States civil engineer noted for designing suspension bridges (including the George Washington Bridge) (1886-1960),steinwoman,,,steinman,PPN,United States civil engineer noted for designing suspension bridges (including the George Washington Bridge) (1886-1960)
+stickup_,young_man,N,an armed thief,stickup_woman,,,stickup_man,N,an armed thief
+stock,young_man,N,farmer who breed or raises livestock,stockwoman,,,stockman,N,farmer who breed or raises livestock
+straight_,young_man,N,a performer who acts as stooge to a comedian,straight_woman,,,straight_man,N,a performer who acts as stooge to a comedian
+straw_,young_man,N,a person used as a cover for some questionable activity,straw_woman,,,straw_man,N,a person used as a cover for some questionable activity
+straw,young_man,N,a person used as a cover for some questionable activity,strawwoman,,,strawman,N,a person used as a cover for some questionable activity
+strong,young_man,M,a man who performs feats of strength at a fair or circus,strongwoman,,,strongman,M,a man who performs feats of strength at a fair or circus
+super,young_man,N,a person with great powers and abilities,superwoman,,,superman,N,a person with great powers and abilities
+swag,young_man,N,an itinerant Australian laborer who carries his personal belongings in a bundle as he travels around in search of work,swagwoman,,,swagman,N,an itinerant Australian laborer who carries his personal belongings in a bundle as he travels around in search of work
+switch,young_man,M,a man who operates railroad switches,switchwoman,,,switchman,M,a man who operates railroad switches
+swords,young_man,N,someone skilled at fencing,swordswoman,,,swordsman,N,someone skilled at fencing
+t-,young_man,N,a special law-enforcement agent of the United States Treasury,t-woman,,,t-man,N,a special law-enforcement agent of the United States Treasury
+tally,young_man,N,one who sells goods on the installment plan,tallywoman,,,tallyman,N,one who sells goods on the installment plan
+tas,young_man,PPN,Dutch navigator who was the first European to discover Tasmania and New Zealand (1603-1659),taswoman,,,tasman,PPN,Dutch navigator who was the first European to discover Tasmania and New Zealand (1603-1659)
+taxi,young_man,N,someone who drives a taxi for a living,taxiwoman,,,taximan,N,someone who drives a taxi for a living
+tax,young_man,N,someone who collects taxes for the government,taxwoman,,,taxman,N,someone who collects taxes for the government
+third_base,young_man,,(baseball) the person who plays third base,third_basewoman,,,third_baseman,,(baseball) the person who plays third base
+timber,young_man,,an owner or manager of a company that is engaged in lumbering,timberwoman,,,timberman,,an owner or manager of a company that is engaged in lumbering
+toll,young_man,N,someone employed to collect tolls,tollwoman,,,tollman,N,someone employed to collect tolls
+towns,young_man,N,a person from the same town as yourself,townswoman,,,townsman,N,a person from the same town as yourself
+trades,young_man,N,a merchant who owns or manages a shop,tradeswoman,,,tradesman,N,a merchant who owns or manages a shop
+trainbands,young_man,N,a member of a trainband,trainbandswoman,,,trainbandsman,N,a member of a trainband
+train,young_man,N,an employee of a railroad,trainwoman,,,trainman,N,an employee of a railroad
+traveling_sales,young_man,M,a salesman who travels to call on customers,traveling_saleswoman,,,traveling_salesman,M,a salesman who travels to call on customers
+travelling_sales,young_man,M,a salesman who travels to call on customers,travelling_saleswoman,,,travelling_salesman,M,a salesman who travels to call on customers
+trencher,young_man,N,a person who is devoted to eating and drinking to excess,trencherwoman,,,trencherman,N,a person who is devoted to eating and drinking to excess
+tribes,young_man,N,someone who lives in a tribe,tribeswoman,,,tribesman,N,someone who lives in a tribe
+trigger,young_man,N,a professional killer who uses a gun,triggerwoman,,,triggerman,N,a professional killer who uses a gun
+tru,young_man,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972),truwoman,,,truman,PPN,elected vice president in Roosevelt's 4th term; became 33rd President of the United States on Roosevelt's death in 1945 and was elected President in 1948; authorized the use of atomic bombs against Japan (1884-1972)
+tub,young_man,PPN,United States abolitionist born a slave on a plantation in Maryland and became a famous conductor on the Underground Railroad leading other slaves to freedom in the North (1820-1913),tubwoman,,,tubman,PPN,United States abolitionist born a slave on a plantation in Maryland and became a famous conductor on the Underground Railroad leading other slaves to freedom in the North (1820-1913)
+tuch,young_man,PPN,United States historian (1912-1989),tuchwoman,,,tuchman,PPN,United States historian (1912-1989)
+turco,young_man,N,a member of a Turkic people living in Turkmenistan and neighboring areas,turcowoman,,,turcoman,N,a member of a Turkic people living in Turkmenistan and neighboring areas
+turko,young_man,N,a member of a Turkic people living in Turkmenistan and neighboring areas,turkowoman,,,turkoman,N,a member of a Turkic people living in Turkmenistan and neighboring areas
+tv_news,young_man,N,someone who reports news stories via television,tv_newswoman,,,tv_newsman,N,someone who reports news stories via television
+underclass,young_man,N,an undergraduate who is not yet a senior,underclasswoman,,,underclassman,N,an undergraduate who is not yet a senior
+utility_,young_man,N,a baseball player valued for the ability to play at several positions,utility_woman,,,utility_man,N,a baseball player valued for the ability to play at several positions
+vagn_walfrid_ek,young_man,PPN,Swedish oceanographer who recognized the role of the Coriolis effect on ocean currents (1874-1954),vagn_walfrid_ekwoman,,,vagn_walfrid_ekman,PPN,Swedish oceanographer who recognized the role of the Coriolis effect on ocean currents (1874-1954)
+vice_chair,young_man,N,one ranking below or serving in the place of a chairman,vice_chairwoman,,,vice_chairman,N,one ranking below or serving in the place of a chairman
+vigilance_,young_man,N,member of a vigilance committee,vigilance_woman,,,vigilance_man,N,member of a vigilance committee
+visiting_fire,young_man,N,an important or distinguished visitor,visiting_firewoman,,,visiting_fireman,N,an important or distinguished visitor
+walt_whit,young_man,PPN,United States poet who celebrated the greatness of America (1819-1892),walt_whitwoman,,,walt_whitman,PPN,United States poet who celebrated the greatness of America (1819-1892)
+warehouse,young_man,N,a workman who manages or works in a warehouse,warehousewoman,,,warehouseman,N,a workman who manages or works in a warehouse
+watch,young_man,N,a guard who keeps watch,watchwoman,,,watchman,N,a guard who keeps watch
+water,young_man,N,someone who drives or rides in a boat,waterwoman,,,waterman,N,someone who drives or rides in a boat
+wealthy_,young_man,M,a man who is wealthy,wealthy_woman,,,wealthy_man,M,a man who is wealthy
+weather,young_man,,predicts the weather,weatherwoman,,,weatherman,,predicts the weather
+welsh,young_man,N,a native or resident of Wales,welshwoman,,,welshman,N,a native or resident of Wales
+whit,young_man,PPN,United States poet who celebrated the greatness of America (1819-1892),whitwoman,,,whitman,PPN,United States poet who celebrated the greatness of America (1819-1892)
+widow,young_man,M,a man whose wife is dead especially one who has not remarried,widowwoman,,,widowman,M,a man whose wife is dead especially one who has not remarried
+wild_,young_man,N,a person who is not socialized,wild_woman,,,wild_man,N,a person who is not socialized
+william_averell_harri,young_man,PPN,United States financier who negotiated a treaty with the Soviet Union banning tests of nuclear weapons (1891-1986),william_averell_harriwoman,,,william_averell_harriman,PPN,United States financier who negotiated a treaty with the Soviet Union banning tests of nuclear weapons (1891-1986)
+william_tecumseh_sher,young_man,PPN,United States general who was commander of all Union troops in the West; he captured Atlanta and led a destructive march to the sea that cut the Confederacy in two (1820-1891),william_tecumseh_sherwoman,,,william_tecumseh_sherman,PPN,United States general who was commander of all Union troops in the West; he captured Atlanta and led a destructive march to the sea that cut the Confederacy in two (1820-1891)
+wing,young_man,N,the pilot who positions his aircraft outside and behind (on the wing of) the leader of a flying formation,wingwoman,,,wingman,N,the pilot who positions his aircraft outside and behind (on the wing of) the leader of a flying formation
+wire,young_man,N,a worker who installs and repairs electric wiring,wirewoman,,,wireman,N,a worker who installs and repairs electric wiring
+wise_,young_man,N,a wise and trusted guide and advisor,wise_woman,,,wise_man,N,a wise and trusted guide and advisor
+wolf,young_man,,a monster able to change appearance from human to wolf and back again,wolfwoman,,,wolfman,,a monster able to change appearance from human to wolf and back again
+wood,young_man,N,someone who lives in the woods,woodwoman,,,woodman,N,someone who lives in the woods
+woodrow_charles_her,young_man,PPN,United States jazz musician and bandleader (1913-1987),woodrow_charles_herwoman,,,woodrow_charles_herman,PPN,United States jazz musician and bandleader (1913-1987)
+woods,young_man,N,someone who lives in the woods,woodswoman,,,woodsman,N,someone who lives in the woods
+woody_her,young_man,PPN,United States jazz musician and bandleader (1913-1987),woody_herwoman,,,woody_herman,PPN,United States jazz musician and bandleader (1913-1987)
+working_,young_man,N,an employee who performs manual or industrial labor,working_woman,,,working_man,N,an employee who performs manual or industrial labor
+working,young_man,N,an employee who performs manual or industrial labor,workingwoman,,,workingman,N,an employee who performs manual or industrial labor
+work,young_man,N,an employee who performs manual or industrial labor,workwoman,,,workman,N,an employee who performs manual or industrial labor
+yard,young_man,N,worker in a railway yard,yardwoman,,,yardman,N,worker in a railway yard
+yeo,young_man,N,officer in the (ceremonial) bodyguard of the British monarch,yeowoman,,,yeoman,N,officer in the (ceremonial) bodyguard of the British monarch
+yes-,young_man,N,a person of unquestioning obedience,yes-woman,,,yes-man,N,a person of unquestioning obedience
+zee,young_man,PPN,Dutch physicist honored for his research on the influence of magnetism on radiation which showed that light is radiated by the motion of charged particles in an atom (1865-1943),zeewoman,,,zeeman,PPN,Dutch physicist honored for his research on the influence of magnetism on radiation which showed that light is radiated by the motion of charged particles in an atom (1865-1943)
+zuker,young_man,PPN,Israeli violinist (born in 1948),zukerwoman,,,zukerman,PPN,Israeli violinist (born in 1948)
