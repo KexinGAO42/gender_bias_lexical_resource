@@ -1,0 +1,13 @@
+Appendix G.1: 11 entries that are defined as male, lacking corresponding "-person" or "-woman" variants
+
+charwoman: a human female employed to do housework
+cleaning_woman: a human female employed to do housework
+comfort_woman: a woman forced into prostitution for Japanese servicemen during World War II
+foolish_woman: a female fool
+honest_woman: a wife who has married a man with whom she has been living for some time (especially if she is pregnant at the time)
+kept_woman: an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man
+lollipop_woman: a woman hired to help children cross a road safely near a school
+loose_woman: a woman adulterer
+washwoman: a working woman who takes in washing
+widow_woman: a woman whose husband is dead especially one who has not remarried
+wonder_woman: a woman who can be a successful wife and have a professional career at the same time

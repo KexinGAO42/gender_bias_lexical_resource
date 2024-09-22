@@ -1,0 +1,52 @@
+Appendix G.1: 50 entries that are defined as male, lacking corresponding "-person" or "-woman" variants
+
+able-bodied_seaman: a seaman in the merchant marine; trained in special skills
+able_seaman: a seaman in the merchant marine; trained in special skills
+backwoodsman: a man who lives on the frontier
+bagman: a salesman who travels to call on customers
+beef_man: a man who raises (or tends) cattle
+best_man: the principal groomsman at a wedding
+career_man: a man who is a careerist
+cattleman: a man who raises (or tends) cattle
+coachman: a man who drives a coach (or carriage)
+corner_man: a man at one end of line of performers in a minstrel show; carries on humorous dialogue with the interlocutor
+cow_man: a man who raises (or tends) cattle
+dirty_old_man: a middle-aged man with lecherous inclinations
+divorced_man: a man who is divorced from (or separated from) his wife
+elevator_man: a man employed to operate an elevator
+end_man: a man at one end of line of performers in a minstrel show; carries on humorous dialogue with the interlocutor
+family_man: a man whose family is of major importance in his life
+ferryman: a man who operates a ferry
+footman: a man employed as a servant in a large establishment (as a palace) to run errands and do chores
+gentleman's_gentleman: a manservant who acts as a personal attendant to his employer
+groomsman: a male attendant of the bridegroom at a wedding
+handyman: a man skilled in various odd jobs and other small tasks
+he-man: a man who is virile and sexually active
+highwayman: a holdup man who stops a vehicle and steals from it
+iron_man: a strong man of exceptional physical endurance
+ironman: a strong man of exceptional physical endurance
+ladies'_man: a man who takes advantage of women
+liftman: a man employed to operate an elevator
+macho-man: a man who is virile and sexually active
+mailman: a man who delivers the mail
+merman: half man and half fish; lives in the sea
+middle-aged_man: a man who is roughly between 45 and 65 years old
+mountain_man: a man who lives on the frontier
+muscleman: a bully employed as a thug or bodyguard
+odd-job_man: a man skilled in various odd jobs and other small tasks
+pantryman: a manservant (usually the head servant of a household) who has charge of wines and the table
+pitchman: an aggressive salesman who uses a fast line of talk to sell something
+ploughman: a man who plows
+plowman: a man who plows
+posseman: an able-bodied man serving as a member of a posse
+postman: a man who delivers the mail
+quarryman: a man who works in a quarry
+roadman: a salesman who travels to call on customers
+seaman: a man who serves as a sailor
+sheepman: a man who raises (or tends) sheep
+squaw_man: a white man married to a North American Indian woman
+strongman: a man who performs feats of strength at a fair or circus
+switchman: a man who operates railroad switches
+traveling_salesman: a salesman who travels to call on customers
+travelling_salesman: a salesman who travels to call on customers
+widowman: a man whose wife is dead especially one who has not remarried

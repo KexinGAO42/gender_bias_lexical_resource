@@ -1,0 +1,61 @@
+Appendix G.6: The 15 entries with three variants of -man, -woman and -person
+
+black_man: a man who is Black
+black_woman: a woman who is Black
+black_person: a person with dark skin who comes from Africa (or whose ancestors came from Africa)
+
+businessman: a person engaged in commercial or industrial business (especially an owner or executive)
+businesswoman: a female businessperson
+businessperson: a capitalist who engages in industrial commercial enterprise
+
+chairman: the officer who presides at the meetings of an organization
+chairwoman: the officer who presides at the meetings of an organization
+chairperson: the officer who presides at the meetings of an organization
+
+counterman: someone who attends a counter (as in a diner)
+counterwoman: someone who attends a counter (as in a diner)
+counterperson: someone who attends a counter (as in a diner)
+
+enlisted_man: a male enlisted person in the armed forces
+enlisted_woman: a female enlisted person in the armed forces
+enlisted_person: a serviceman who ranks below a commissioned officer
+
+foreman: a man who is foreperson of a jury
+forewoman: a woman who is foreperson of a jury
+foreperson: the presiding member of the jury and the one who speaks on their behalf
+
+foreman: a person who exercises control over workers
+forewoman: a woman in charge of a group of workers
+foreperson: the presiding member of the jury and the one who speaks on their behalf
+
+kinsman: a male relative
+kinswoman: a female relative
+kinsperson: a person having kinship with another or others
+
+married_man: a married man; a woman's partner in marriage
+married_woman: a married woman; a man's partner in marriage
+married_person: a person's partner in marriage
+
+newsman: a person who investigates and reports or edits news stories
+newswoman: a female newsperson
+newsperson: a person who investigates and reports or edits news stories
+
+old_man: a man who is very old
+old_woman: a woman who is old
+old_person: an elderly person
+
+salesman: a man salesperson
+saleswoman: a woman salesperson
+salesperson: a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)
+
+spokesman: a male spokesperson
+spokeswoman: a female spokesperson
+spokesperson: an advocate who represents someone else's policy or purpose
+
+white_man: a man who is White
+white_woman: a woman who is White
+white_person: a member of the Caucasoid race
+
+young_man: a teenager or a young adult male
+young_woman: a young woman
+young_person: a young person (especially a young man or boy)

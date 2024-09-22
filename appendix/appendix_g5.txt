@@ -1,0 +1,7 @@
+Appendix G.5: The 3 entries with two variants of -man and -person
+
+rich man: a man who is wealthy
+rich person: a person who possesses great material wealth
+
+wealthy man: a man who is wealthy
+wealthy person: a person who possesses great material wealthy

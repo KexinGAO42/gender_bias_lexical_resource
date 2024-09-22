@@ -1,0 +1,10 @@
+Appendix G.4: The 3 entries with two variants of -woman and -person
+
+disagreeable woman: a woman who is an unpleasant person
+disagreeable person: a person who is not pleasant or agreeable
+
+slovenly woman: a dirty untidy woman
+slovenly person: a coarse obnoxious person
+
+unpleasant woman: a woman who is an unpleasant person
+unpleasant person: a person who is not pleasant or agreeable

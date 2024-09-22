@@ -1,0 +1,33 @@
+Definitional Bias: 10 entries whose definitions for "-man" variant are detailed, whereas the corresponding "-woman" entries receive simpler definitions derived from their "-man" or "-person" counterparts
+
+airman:N, someone who operates an aircraft
+airwoman:F, a woman aviator
+
+assemblyman:N, someone who is a member of a legislative assembly
+assemblywoman:F, a woman assemblyman
+
+horseman:M, a man skilled in equitation
+horsewoman:F, a woman horseman
+
+oarsman:N, someone who rows a boat
+oarswoman:F, a woman oarsman
+
+policeman:N, a member of a police force
+policewoman:F, a woman policeman
+
+scotchman:N, a native or inhabitant of Scotland
+scotchwoman:F, a woman who is a Scot
+
+scotsman:N, a native or inhabitant of Scotland
+scotswoman:F, a woman who is a Scot
+
+statesman:M, a man who is a respected leader in national or international affairs
+stateswoman:F, a woman statesman
+
+businessman:N, a person engaged in commercial or industrial business (especially an owner or executive)
+businesswoman:F, a female businessperson
+businessperson:N, a capitalist who engages in industrial commercial enterprise
+
+newsman:N, a person who investigates and reports or edits news stories
+newswoman:F, a female newsperson
+newsperson:N, a person who investigates and reports or edits news stories

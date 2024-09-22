@@ -1,0 +1,142 @@
+Appendix G.3: The 47 entries with two variants of -man and -woman
+
+airman: someone who operates an aircraft
+airwoman: a woman aviator
+
+assemblyman: someone who is a member of a legislative assembly
+assemblywoman: a woman assemblyman
+
+beggarman: a man who is a beggar
+beggarwoman: a woman who is a beggar
+
+bionic_man: a human being whose body has been taken over in whole or in part by electromechanical devices
+bionic_woman: a human being whose body has been taken over in whole or in part by electromechanical devices
+
+bondsman: someone who signs a bond as surety for someone else
+bondswoman: someone who signs a bond as surety for someone else
+
+bondsman: a male bound to serve without wages
+bondswoman: a female bound to serve without wages
+
+bondsman: a male slave
+bondswoman: a female slave
+
+bondman: a male bound to serve without wages
+bondwoman: a female bound to serve without wages
+
+bondman: a male slave
+bondwoman: a female slave
+
+clansman: a member of a clan
+clanswoman: a member of a clan
+
+committeeman: a man who is a member of committee
+committeewoman: a woman who is a member of a committee
+
+congressman: a member of the United States House of Representatives
+congresswoman: a member of the United States House of Representatives
+
+cornishman: a man who is a native or inhabitant of Cornwall
+cornishwoman: a woman who is a native or resident of Cornwall
+
+councilman: a man who is a council member
+councilwoman: a woman who is a council member
+
+countryman: a man who lives in the country and has country ways
+countrywoman: a woman who lives in the country and has country ways
+
+countryman: a man from your own country
+countrywoman: a woman from your own country
+
+englishman: a man who is a native or inhabitant of England
+englishwoman: a woman who is a native or inhabitant of England
+
+fancy_man: someone who procures customers for whores (in England they call a pimp a ponce)
+fancy_woman: a woman who engages in sexual intercourse for money
+
+fancy_man: a woman's lover
+fancy_woman: an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man
+
+freedman: a person who has been freed from slavery
+freedwoman: a person who has been freed from slavery
+
+freeman: a person who is not a serf or a slave
+freewoman: a person who is not a serf or a slave
+
+frenchman: a person of French nationality
+frenchwoman: a person of French nationality
+
+frontiersman: a man who lives on the frontier
+frontierswoman: a woman who lives on the frontier
+
+gay_man: a homosexual man
+gay_woman: a female homosexual
+
+gentleman: a man of refinement
+gentlewoman: a woman of refinement
+
+horseman: a man skilled in equitation
+horsewoman: a woman horseman
+
+irishman: a man who is a native or inhabitant of Ireland
+irishwoman: a woman who is a native or inhabitant of Ireland
+
+juryman: someone who serves (or waits to be called to serve) on a jury
+jurywoman: someone who serves (or waits to be called to serve) on a jury
+
+laundryman: operates industrial washing machine
+laundrywoman: a working woman who takes in washing
+
+madman: an insane person
+madwoman: a woman lunatic
+
+newspaperman: a journalist employed to provide news stories for newspapers or broadcast media
+newspaperwoman: a journalist employed to provide news stories for newspapers or broadcast media
+
+nobleman: a titled peer of the realm
+noblewoman: a woman of the peerage in Britain
+
+oarsman: someone who rows a boat
+oarswoman: a woman oarsman
+
+outdoorsman: a person who spends time outdoors (e.g., hunting or fishing)
+outdoorswoman: a woman who spends time outdoors (e.g., hunting and fishing)
+
+point_man: someone who is the forefront of an important enterprise
+point_woman: a woman who is the forefront of an important enterprise
+
+policeman: a member of a police force
+policewoman: a woman policeman
+
+scotchman: a native or inhabitant of Scotland
+scotchwoman: a woman who is a Scot
+
+scotsman: a native or inhabitant of Scotland
+scotswoman: a woman who is a Scot
+
+selectman: an elected member of a board of officials who run New England towns
+selectwoman: an elected member of a board of officials who run New England towns
+
+sportsman: someone who engages in sports
+sportswoman: someone who engages in sports
+
+statesman: a man who is a respected leader in national or international affairs
+stateswoman: a woman statesman
+
+stunt_man: a stand-in for movie stars to perform dangerous stunts
+stunt_woman: a stand-in for movie stars to perform dangerous stunts
+
+unmarried_man: a man who has never been married
+unmarried_woman: a woman who is not married
+
+vestryman: a man who is a member of a church vestry
+vestrywoman: a woman who is a member of a church vestry
+
+washerman: operates industrial washing machine
+washerwoman: a working woman who takes in washing
+
+yachtsman: a person who owns or sails a yacht
+yachtswoman: a person who owns or sails a yacht
+
+yellow_man: offensive term for an Asian man
+yellow_woman: offensive term for an Asian woman
