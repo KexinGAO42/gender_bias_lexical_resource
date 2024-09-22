@@ -1,5 +1,5 @@
 # created by virtualenv automatically
 
-backup
+backup/processed_data
 .idea
 .ipynb_checkpoints
